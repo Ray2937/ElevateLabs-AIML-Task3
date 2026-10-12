@@ -1,7 +1,7 @@
 # Task 3: Linear Regression (Housing Price Prediction)
 
 ## Overview
-This repository contains the solution for Task 3 of the AIML Internship at Elevate Labs[cite: 5]. The objective of this task is to implement multiple linear regression using Python and Scikit-Learn to predict house prices based on various structural and feature attributes[cite: 5].
+This repository contains the solution for Task 3 of the AIML Internship at Elevate Labs. The objective of this task is to implement multiple linear regression using Python and Scikit-Learn to predict house prices based on various structural and feature attributes.
 
 ## Files Included
 - `task3.py`: The complete Python script for data preparation, model training, evaluation, and visualization.
